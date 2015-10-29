@@ -11,4 +11,5 @@
 5. [***识别并替换一段文件中的url地址***](https://github.com/wangming1993/issues/issues/5)
 6. [***Yii2编码规范***](https://github.com/wangming1993/issues/issues/6)
 7. [***Elastic + kibana + logstash + redis 对mongodb日志进行分析***](https://github.com/wangming1993/issues/issues/7)
-7. [***sublime text 快捷键大全***](https://github.com/wangming1993/issues/issues/8)
+8. [***sublime text 快捷键大全***](https://github.com/wangming1993/issues/issues/8)
+9. [***linux下一些好用的工具***](https://github.com/wangming1993/issues/issues/9)
