@@ -13,3 +13,7 @@
 7. [***Elastic + kibana + logstash + redis 对mongodb, nginx日志进行分析***](https://github.com/wangming1993/issues/issues/7)
 8. [***sublime text 快捷键大全***](https://github.com/wangming1993/issues/issues/8)
 9. [***linux下一些好用的工具***](https://github.com/wangming1993/issues/issues/9)
+10. [***Yii2 rules常用规则 核心验证器***](https://github.com/wangming1993/issues/issues/10)
+11. [***Yii2 手动添加扩展模块 mongodb***](https://github.com/wangming1993/issues/issues/11)
+12. [***MongoDB使用 js 更新 collection***](https://github.com/wangming1993/issues/issues/12)
+13. [***PHP 魔法函数 __call PHP***](https://github.com/wangming1993/issues/issues/13)
