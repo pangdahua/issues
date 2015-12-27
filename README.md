@@ -19,5 +19,5 @@
 12. [***MongoDB使用 js 更新 collection***](https://github.com/wangming1993/issues/issues/12)
 13. [***PHP 魔法函数 __call PHP***](https://github.com/wangming1993/issues/issues/13)
 14. [***Redis开启密码, 配置Yii2 redis密码访问***](https://github.com/wangming1993/issues/issues/14)
-15. [***资源大全 ***](https://github.com/wangming1993/issues/issues/15)
+15. [***资源大全***](https://github.com/wangming1993/issues/issues/15)
 16. [***MongoDB中关于乐观锁的一些使用***](https://github.com/wangming1993/issues/issues/16)
